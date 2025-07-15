@@ -1,0 +1,22 @@
+El datetime permite trabajar de forma sencilla y potente con fechas y horas, permitiendo obtener la fecha actual,
+crear fechas especificas, manejar horas de manera independiente y realizar operaciones como sumar o restar dias, horas y
+minutos utilizando 'timedelta'.
+
+Por 'datetime' se puede calcular diferencias entre las fechas, convertir fechas en 'timestamps (desde 1970), y formatear fechas
+para mostrarlas de forma legible en los programas, siendo una herramienta fundamental para gestionar el tiempo en cualquier aplicación
+de forma clara y estructurada.
+
+
+datetime.now()                                      --> Fecha y hora actual
+
+date.today()                                        --> Fecha actual
+
+time(hora, minuto, seg)                             --> Objeto de tiempo
+
+datetime(año, mes, día, hora, minuto, seg)          --> Crear fecha completa
+
+timedelta                                           --> Sumar/restar tiempo
+
+datetime.timestamp()                                --> Segundos desde 1970
+
+fecha_futura - fecha_pasada                         --> Timedelta con diferencia
