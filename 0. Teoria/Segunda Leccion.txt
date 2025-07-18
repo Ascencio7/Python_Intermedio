@@ -1,0 +1,32 @@
+Las List Comprehension son una forma concisa y elegante de crear listas a partir de
+iterables (listas, rangos, strings, entre otros) en una sola línea de código, aplicando
+opcionalmente condiciones y transformaciones a los elementos.
+
+Su estructura básica es la siguiente:
+
+  -->  [expresion for elemento in iterable if condicion]
+
+expresion --> Es el valor que se agrega a la nueva lista
+
+elemento --> Es la variable que toma cada valor del iterable
+
+iterable --> Es la lista, rango o colección que se recorre
+
+if condicion --> Es opcional, que filtra qué elementos incluir según una condición
+
+
+Es igual a construir listas usando bucles 'for', pero más legible y eficiente en líneas de código.
+
+Ventajas:
+
+    --> Código más limpio y corto
+    --> Más rápido que usar bucles for con '.append()'
+    --> Fácil de leer cuando la transformación no es compleja
+
+
+Usos:
+
+    --> Transformar elementos mientras se agregan
+    --> Filtrar elementos según una condición
+    --> Crear listas de listas (listas anidadas)
+    --> Realizar operaciones matemáticas mientras se construye la lista
