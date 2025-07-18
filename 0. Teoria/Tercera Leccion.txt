@@ -1,0 +1,17 @@
+Constructores y Encapsulamiento
+
+
+Es un método que permite crear unas condiciones de estado inicial de un objeto o instancia de clase. Encapsular consiste
+en diseñar una clase de forma que algunas de sus características solamente puedan ser modificadas desde adentro de la clase
+y no por fuera y algunos de los métodos solo puedan ser usados dentro de la misma clase en la cual han sido declarados y diseñados.
+
+Tanto el constructor como el encapsulamiento son recursos que posibilitan los lenguajes POO como Python para aproximarse a la realidad
+del mundo que se quiere interpretar a través de un programa.
+
+Cada objeto puede tener sus características propias y también puede compartir algunas de ellas con otros objetos que provengan de la misma
+clase.
+
+Si se necesita la codificación de un método (dentro de una clase) que deba encapsularse, es decir, que solo pueda ser invocado dentro de la clase,
+entonces lo que se hace es que al nombre de dicho método se antepone dos guiones bajos (__). 
+
+Se debe tener en cuentam eso sí, que el uso de un método encapsulado no es tan libre como el uso de una función o un método abierto (no encapsulado)

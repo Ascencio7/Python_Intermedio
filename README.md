@@ -15,7 +15,7 @@ Este repositorio contiene **teoría y ejemplos comentados** que facilitan la com
 
 ✅ Dates <br>
 ✅ List Comprehension<br>
-✅ Resolución de Retos<br>
+✅ POO: Encapsulamiento, Herencia, Polimorfismo <br>
 ✅ Lambdas<br>
 ✅ Funciones de Orden Superior<br>
 ✅ Tipos de Error<br>
@@ -42,6 +42,7 @@ Este proyecto está diseñado como práctica de **aprendizaje personal de Python
 ## ✨ Autor
 
 Vladimir Ascencio – Desarrollador en aprendizaje continuo 🚀
+
 ¡Gracias por visitar este proyecto! 🐍😄
 
 
@@ -65,13 +66,6 @@ Vladimir Ascencio – Desarrollador en aprendizaje continuo 🚀
         <img src="https://skillicons.dev/icons?i=discord" width="50" alt="Discord" title="Discord" />
       </a>
     </td>
-    <!--
-    <td align="center">
-      <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://skillicons.dev/icons?i=twitter" width="50" alt="Twitter" title="Twitter" />
-      </a>
-    </td>
-    -->
     <td align="center">
       <a href="https://github.com/Ascencio7" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" title="GitHub" />
