@@ -16,6 +16,7 @@ Este repositorio contiene **teoría y ejemplos comentados** que facilitan la com
 ✅ Dates <br>
 ✅ List Comprehension<br>
 ✅ POO: Encapsulamiento, Herencia, Polimorfismo <br>
+✅ Primeros pasos en el Test <br>
 ✅ Lambdas<br>
 ✅ Funciones de Orden Superior<br>
 ✅ Tipos de Error<br>

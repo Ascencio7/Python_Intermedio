@@ -1,0 +1,16 @@
+HERENCIA
+
+Es el mecanismo que provee la POO para que una clase pueda incorporar entre sus características y métodos de otra clase. La herencia
+permite que el programador pueda interpretar el mundo, en sus atributos y comportamientos, demanera exacta. Son muchos los 'objetos'
+del mundo real que 'heredan' muchas cosas de otros más generales.
+
+Un ser vivo, por ejemplo, podría ser un animal. Un animal, a su vez, podría ser un mamífero. Ese mamífero podría ser un cuadrúpedo y ese cuadrúpedo
+podría ser un perro. Ese perro podría ser de raza pastor alemán y ese pastor alemán podría ser Zeus, el perro de la casa. Esto se puede imaginar
+porque cada vez, cada elemento nuevo 'hereda cosas' del elemento anterior.
+
+
+            Ser vivo --> Animal --> Mamífero --> Cuadrúpedo --> Perro --> Raza --> Pastor Alemán --> Zeus
+
+El sentido de las flechas indica el sentido en el cual se van heredando las características de un objeto hacia otro que se deriva de él. Estas
+flechas no son reversibles. Esto quiere decir que todo ser vivo será un cuadrúpedo, que todo puede ser cuadrúpedo será un perro, que todo perro será
+un pastor alemán y que todo pastor alemán será Zeus.
